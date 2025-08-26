@@ -2,5 +2,5 @@
 - 🚀 Open Accelerator building Tech Tribes
 - 🤝 eager to collaborate on open-source to keep technology open, sovereign, and human-friendly.  
 - 😅 Curently working on Private AI & Digital Sovereignty
-- 🦄 Nerd, lazy runner 🏃‍♂️ and brewing beer 🍻 for charity 
+- 🧑‍💻 Nerd, lazy runner 🏃‍♂️ and brewing beer 🍻 for charity 
 - 📬 Reach me on Bluesky (https://bsky.app/kapej.com)
