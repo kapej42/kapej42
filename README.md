@@ -1,6 +1,7 @@
-- 🙌 Hi, I’m KP (or @kapej42)
-- 🚀 Open accelerator building Tech Tribes with a ❤️ for community driven change
-- 🛠️ working on **cloud-native platforms, AI enablement, and developer experience tooling**.  
+🙌 Hi, I’m @kapej42
+- 🚀 Open Accelerator building Tech Tribes
+- 👀 Interested in Private AI & Digital Sovereignty
+- 🛠️ Working on **cloud-native platforms, AI enablement, and developer experience tooling**.  
 - 🤝 eager to **collaborate on open-source initiatives** that accelerate digital transformation and keep technology open, sovereign, and human-friendly.  
 - 📬 Reach me on [Bluesky](https://bsky.app/profile/kapej.com) → **@kapej.com**
-- 🍻 fun fact: I run a brewery (social enteprise) that brews beer for charity 
+- 🍻 Running a brewery (social enteprise) that brews beer for charity 
