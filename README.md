@@ -4,3 +4,4 @@
 - 😅 Curently working on Private AI & Digital Sovereignty
 - 🧑‍💻 Nerd, lazy runner 🏃‍♂️ and brewing beer 🍻 for charity 
 - 📬 Reach me on Bluesky (https://bsky.app/kapej.com)
+- 🪐 Liking Hitchhikers Guide to the Galaxy
